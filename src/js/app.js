@@ -24,6 +24,4 @@ grayColor.addEventListener("click", () => {
   itemTag.style.backgroundColor = "gray";
 });
 
-cartButton.addEventListener("click", () =>
-  alert("Confirmas tu compra?")
-);
+cartButton.addEventListener("click", () => alert("¿Confirmas tu compra?"));
