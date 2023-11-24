@@ -1,21 +1,35 @@
-# Dom exercise
+# DOM Exercise 
 
-Este repositorio nos servirá como base para coonocer los diferente tipos de Dom que tenemos en javascript y construir de tal forma un proyecto que podría ser real. También, a parte de la explicación recibida en clase, las coder deberán realizar una refactorización del código que tenga después de la explicación y la realización de los test de cada función.
+> DOM exercise involving a simple card that can change between three Mercedes Benz. color options  
 
-El proyecto ya esta realizado con la arquitectura adecuada para su funcionamiento.
+### Table of Contents
 
-## Requisitos para el funcionamiento actual
+- [Description](#description)
+- [Technologies](#technologies)
+- [Testing](#testing)
+
+![mercedes benz cards showing colour options and pop-up](image.png)
+
+
+---
+
+## Description
+
+This exercise involved Document Object Model (DOM) manipulation using JavaScript, HTML, and CSS. Working with a virtual representation of a Mercedes Benz card, the newly added functionality allows users to change the color of the car in the main photo and the 'add to cart' button by clicking on the corresponding color options. As well as adjustments to the HTML and CSS for added clarity and consistency, the card also now includes a pop-up alert for users to confirm that they want to proceed with their purchase after clicking on the 'add to cart' button. 
+
+#### Technologies
 
 - Visual Studio Code
+- JavaScript
+- Node
+- Vitest
 
-## Requisitos para realizar el testing
 
-- El testing se deberá de realizar en [vitest](https://vitest.dev/guide/)
-- Una vez instalado deberás poner en este **readme** (que deberás modificar), el proceso para que una persona que llegué al repositorio pueda hacer correr los test
+#### Testing
 
-## Requisitos del Readme
+Testing involved checking for the appropriate title and an 'add to cart' button, as well as the necessary code to perform the color change operation. All tests passed. To perform these same tests, it is necessary to install Node.js and follow the guidelines on vitest.dev.   
 
-- DEBERÁ llevar una breve descripción del proyecto
-- DEBERÁ lleva las imágenes que muestren el proyecto
-- DEBERÁ llevar las tecnologías empleadas
-- DEBERÁ llevar como se debe hacer el proceso para instalar todo lo necesario para que se corran los test (instalar nodejs, hacer npm install  o npm i)
+---
+
+Back to: [Table of Contents](#table-of-contents)
+
