@@ -3,7 +3,7 @@ const blackColor = document.querySelector(".black");
 const grayColor = document.querySelector(".gray");
 
 const cartButton = document.getElementById("button");
-const itemTag = document.getElementsByTagName("h3");
+const itemTag = document.getElementById("tag");
 const imgCard = document.querySelector(".product-image");
 
 redColor.addEventListener("click", () => {
