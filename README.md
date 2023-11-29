@@ -8,7 +8,10 @@
 - [Technologies](#technologies)
 - [Testing](#testing)
 
-![mercedes benz cards showing colour options and pop-up](image.png)
+![screenshot of grey color option](<Screenshot (28)-1.png>)
+![screenshot of red color option](<Screenshot (29).png>)
+![screenshot of red color option with pop-up box](<Screenshot (30).png>)
+
 
 
 ---
